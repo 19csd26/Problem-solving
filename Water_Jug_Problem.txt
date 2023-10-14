@@ -1,0 +1,6 @@
+You are given 2 jugs with the capacity 'jug1Capacity' and 'jug2Capacity' respectively. 
+Initially, they are given empty. 
+There is an unlimited supply of water. 
+You can either fill the whole jug or a quantity that is less than the given capacity of jugs. 
+Now, you are also given a third positive integer 'targetCapacity'. 
+Using the 2 given jugs, you need to come up with a solution to have 'targetCapacity' amount of water in them and return the number of steps you took to reach that capacity.
